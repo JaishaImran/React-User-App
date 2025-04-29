@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "784452730429",
+    "project_id": "black-rides",
+    "storage_bucket": "black-rides.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784452730429:android:5487c6d80ca5368a5f3454",
+        "android_client_info": {
+          "package_name": "com.black_rides"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784452730429-k662t2ub80ud3k4n06e0lpkn96jtbnlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.black_rides",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "784452730429-bdi34d859hve078go2mau7ccv9b06sk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb4zIYhRmRYa2Upf9ej7Xz7F6LNCVKekY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784452730429-bdi34d859hve078go2mau7ccv9b06sk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
